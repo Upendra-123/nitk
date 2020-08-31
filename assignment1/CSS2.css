@@ -1,0 +1,50 @@
+body
+{
+	background: silver;
+}
+#center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+#t01
+{
+	background: lightgreen;
+	
+}
+table,th,td
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+th,td
+{
+	padding: 5px;
+}
+#t02 th
+{
+	background: skyblue;
+}
+#form
+{
+	padding: 20px;
+	margin:10px;
+}
+#p01
+{
+	background: lightpink;
+}
+#h01
+{
+	color:darkblue;
+	font-weight: bold;
+	text-shadow: 2px 2px orange;
+	text-align: center;
+}
+#fig
+{
+	text-align: center;
+	font-weight: bold;
+	font-size: 50px;
+}
